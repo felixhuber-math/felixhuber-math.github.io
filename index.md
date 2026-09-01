@@ -2,19 +2,15 @@
 
 Mathematics Teacher and Independent Researcher
 
-## Research Interests
+Research interests include integer sequences, combinatorics, number theory, additive combinatorics, and computational mathematics.
 
-- Integer Sequences
-- Combinatorics
-- Number Theory
+## Research
 
-## Research Papers
+[Research papers](research.md)
 
-[View research papers](research.md)
+## OEIS
 
-## OEIS Sequences
-
-[View OEIS sequences](oeis.md)
+[OEIS sequences](oeis.md)
 
 ## About
 
