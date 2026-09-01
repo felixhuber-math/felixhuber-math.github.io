@@ -32,6 +32,8 @@ Starting from an integer composition, this paper studies repeated formation of c
 
 [arXiv version](https://arxiv.org/abs/2608.04468)
 
+[Related OEIS sequences](oeis.md)
+
 ---
 
 ## A Classification of Integer-Sided Cyclic Polygons with Semiprime Radius
@@ -44,9 +46,7 @@ This paper classifies the maximum number of sides of a simple cyclic polygon wit
 
 [Current manuscript (PDF)](papers/integer-sided-cyclic-polygons-semiprime-radius.pdf)
 
-[OEIS A398489](https://oeis.org/A398489)
-
-[OEIS A398490](https://oeis.org/A398490)
+[Related OEIS sequences](oeis.md)
 
 ---
 
@@ -60,6 +60,8 @@ This paper studies primitive coefficient heights arising from finite rational MÃ
 
 [Current manuscript (PDF)](papers/primitive-coefficient-heights-mobius-orbits.pdf)
 
+[Related OEIS sequences](oeis.md)
+
 ---
 
 ## Saturated Sidon Sets in Consecutive Intervals: The Eight-Mark Threshold Is 144
@@ -71,4 +73,6 @@ This paper studies primitive coefficient heights arising from finite rational MÃ
 This paper proves that 144 is the largest interval length admitting an inclusion-maximal Sidon set with eight elements. It gives an explicit witness at 144 and proves that no such set exists for any n >= 145.
 
 [Current manuscript (PDF)](papers/saturated-sidon-eight-mark-threshold.pdf)
+
+[Related OEIS sequences](oeis.md)
 
