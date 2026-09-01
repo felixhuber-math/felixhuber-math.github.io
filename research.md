@@ -2,9 +2,11 @@
 
 ## Sidon Subsets and Pair-Sum Multiplicities of Distinct Multinomial Coefficients
 
-**Author:** Felix Huber
+**Author:** Felix Huber  
+**Status:** Preprint  
+**Date:** August 2026
 
-**Status:** Preprint
+This paper studies large Sidon subsets and repeated pair sums in sets of distinct multinomial coefficients. It combines a product embedding with Sidon extraction, prime-partition estimates, arithmetic progressions, and pair-sum multiplicity arguments.
 
 [Current manuscript (PDF)](papers/Huber_Sidon_Pair_Sum_AMUC.pdf)
 
