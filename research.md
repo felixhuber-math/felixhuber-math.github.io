@@ -11,3 +11,5 @@ This paper studies large Sidon subsets and repeated pair sums in sets of distinc
 [Current manuscript (PDF)](papers/Huber_Sidon_Pair_Sum_AMUC.pdf)
 
 [Earlier version on arXiv](https://arxiv.org/abs/2608.02667)
+
+[Related OEIS sequences](oeis.md)
