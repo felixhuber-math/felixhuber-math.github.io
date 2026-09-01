@@ -31,3 +31,19 @@ Starting from an integer composition, this paper studies repeated formation of c
 [Current manuscript (PDF)](papers/iterated-distinct-absolute-differences.pdf)
 
 [arXiv version](https://arxiv.org/abs/2608.04468)
+
+---
+
+## A Classification of Integer-Sided Cyclic Polygons with Semiprime Radius
+
+**Author:** Felix Huber  
+**Status:** Preprint  
+**Date:** August 2026
+
+This paper classifies the maximum number of sides of a simple cyclic polygon with integer side lengths when the circumradius is semiprime. The possible values are 6, 8, and 18, governed by arithmetic conditions involving Gaussian and Eisenstein splitting.
+
+[Current manuscript (PDF)](papers/integer-sided-cyclic-polygons-semiprime-radius.pdf)
+
+[OEIS A398489](https://oeis.org/A398489)
+
+[OEIS A398490](https://oeis.org/A398490)
