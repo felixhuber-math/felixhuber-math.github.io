@@ -15,3 +15,13 @@ The following OEIS sequences are related to this research project:
 - [A398231](https://oeis.org/A398231) — Multiply represented trinomial pair sums.
 
 [Related research paper](research.md)
+
+---
+
+## Iterated Distinct Absolute Differences of Integer Compositions
+
+- [A398152](https://oeis.org/A398152) — Least positive integer k for which there exists a composition of k of depth n under iterated distinct absolute differences.
+
+[Related research paper](research.md)
+
+[arXiv paper](https://arxiv.org/abs/2608.04468)
