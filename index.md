@@ -14,8 +14,8 @@ Mathematics Teacher and Independent Researcher
 
 ## OEIS Sequences
 
-A collection of OEIS sequences related to my research.
+[View OEIS sequences](oeis.md)
 
 ## About
 
-Personal research website.
+[About me](about.md)
