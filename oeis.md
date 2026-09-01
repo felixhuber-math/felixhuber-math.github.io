@@ -29,3 +29,13 @@ The following OEIS sequences are related to this research project:
 [Related research paper](research.md)
 
 [arXiv paper](https://arxiv.org/abs/2608.04468)
+
+---
+
+## A Classification of Integer-Sided Cyclic Polygons with Semiprime Radius
+
+- [A398489](https://oeis.org/A398489) — Number of multisets of k positive integer side lengths realizable by simple cyclic polygons of circumradius n.
+- [A398490](https://oeis.org/A398490) — Maximum number of sides of a simple cyclic polygon of circumradius n with positive integer side lengths.
+
+[Related research paper](research.md)
+
