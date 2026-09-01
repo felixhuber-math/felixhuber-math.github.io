@@ -1,3 +1,7 @@
+[Home](index.md) | [Research](research.md) | [OEIS](oeis.md) | [About](about.md)
+
+---
+
 # Research Papers
 
 ## Sidon Subsets and Pair-Sum Multiplicities of Distinct Multinomial Coefficients
