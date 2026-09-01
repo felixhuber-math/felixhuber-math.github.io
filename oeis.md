@@ -39,3 +39,10 @@ The following OEIS sequences are related to this research project:
 
 [Related research paper](research.md)
 
+---
+
+## Primitive Coefficient Heights in Finite Rational Möbius Orbits
+
+- [A365892](https://oeis.org/A365892) — Increasing sequence of primitive coefficient heights arising from the involution case of the finite rational Möbius-orbit construction.
+
+[Related research paper](research.md)
