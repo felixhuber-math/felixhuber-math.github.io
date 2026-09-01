@@ -1,3 +1,7 @@
+[Home](index.md) | [Research](research.md) | [OEIS](oeis.md) | [About](about.md)
+
+---
+
 # About
 
 I am a mathematics teacher and independent researcher based in Lucerne, Switzerland.
