@@ -6,6 +6,6 @@
 
 **Status:** Preprint
 
-[Current manuscript (PDF)](papers/sidon-subsets-and-pair-sum-multiplicities.pdf)
+[Current manuscript (PDF)](papers/Huber_Sidon_Pair_Sum_AMUC.pdf)
 
 [Earlier version on arXiv](https://arxiv.org/abs/2608.02667)
