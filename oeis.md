@@ -46,3 +46,14 @@ The following OEIS sequences are related to this research project:
 - [A365892](https://oeis.org/A365892) — Increasing sequence of primitive coefficient heights arising from the involution case of the finite rational Möbius-orbit construction.
 
 [Related research paper](research.md)
+
+---
+
+## Saturated Sidon Sets in Consecutive Intervals
+
+- [A399118](https://oeis.org/A399118) — Triangle counting inclusion-maximal Sidon subsets of {1, ..., n} by cardinality.
+- [A399119](https://oeis.org/A399119) — Number of cardinalities occurring among inclusion-maximal Sidon subsets of {1, ..., n}.
+- [A382397](https://oeis.org/A382397) — Minimum cardinality of an inclusion-maximal Sidon subset of {1, ..., n}.
+
+[Related research paper](research.md)
+
