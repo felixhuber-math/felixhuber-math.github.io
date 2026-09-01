@@ -14,4 +14,4 @@ My research interests include:
 - Additive combinatorics
 - Computational mathematics
 
-I also contribute sequences and related material to the On-Line Encyclopedia of Integer Sequences (OEIS).
+I also contribute integer sequences, computational data, and related material to the On-Line Encyclopedia of Integer Sequences (OEIS).
