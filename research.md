@@ -47,3 +47,16 @@ This paper classifies the maximum number of sides of a simple cyclic polygon wit
 [OEIS A398489](https://oeis.org/A398489)
 
 [OEIS A398490](https://oeis.org/A398490)
+
+---
+
+## Primitive Coefficient Heights in Finite Rational Möbius Orbits
+
+**Author:** Felix Huber  
+**Status:** Preprint  
+**Date:** August 2026
+
+This paper studies primitive coefficient heights arising from finite rational Möbius orbits. It proves periodicity of the normalization content, derives asymptotic counting laws for primitive orbit forms, and analyzes height collisions in the possible finite subgroup orders of PGL₂(Q).
+
+[Current manuscript (PDF)](papers/primitive-coefficient-heights-mobius-orbits.pdf)
+
