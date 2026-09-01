@@ -1,3 +1,7 @@
+[Home](index.md) | [Research](research.md) | [OEIS](oeis.md) | [About](about.md)
+
+---
+
 # Felix Huber
 
 Mathematics Teacher and Independent Researcher
