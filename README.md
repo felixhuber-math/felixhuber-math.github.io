@@ -8,9 +8,9 @@ Mathematics Teacher and Independent Researcher
 - Combinatorics
 - Number Theory
 
-## Working Papers
+## Research Papers
 
-This website hosts unpublished research papers, working papers, and mathematical notes.
+[View research papers](research.md)
 
 ## OEIS Sequences
 
