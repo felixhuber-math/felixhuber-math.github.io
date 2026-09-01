@@ -60,3 +60,15 @@ This paper studies primitive coefficient heights arising from finite rational MÃ
 
 [Current manuscript (PDF)](papers/primitive-coefficient-heights-mobius-orbits.pdf)
 
+---
+
+## Saturated Sidon Sets in Consecutive Intervals: The Eight-Mark Threshold Is 144
+
+**Author:** Felix Huber  
+**Status:** Preprint  
+**Date:** August 2026
+
+This paper proves that 144 is the largest interval length admitting an inclusion-maximal Sidon set with eight elements. It gives an explicit witness at 144 and proves that no such set exists for any n >= 145.
+
+[Current manuscript (PDF)](papers/saturated-sidon-eight-mark-threshold.pdf)
+
