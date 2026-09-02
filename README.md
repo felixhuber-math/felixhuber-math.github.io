@@ -7,6 +7,8 @@ Mathematics Teacher and Independent Researcher
 - Integer Sequences
 - Combinatorics
 - Number Theory
+- Additive Combinatorics
+- Computational Mathematics
 
 ## Research Papers
 
@@ -14,11 +16,11 @@ Mathematics Teacher and Independent Researcher
 
 ## OEIS Sequences
 
-A collection of OEIS sequences related to my research.
+[View OEIS sequences](oeis.md)
 
-## Publications
+## About
 
-Published articles and accepted manuscripts.
+[About me](about.md)
 
 ## Contact
 
