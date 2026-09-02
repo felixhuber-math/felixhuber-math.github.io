@@ -4,6 +4,30 @@
 
 # Research Papers
 
+## Multiplicity Thresholds for Sidon Divisor Sets and Cyclic Triple Collisions
+
+**Status:** Preprint
+
+This paper studies additive collisions in sets of positive divisors. It proves sharp multiplicity thresholds for squarefree divisibility-minimal non-Sidon integers, determines the two smallest examples with a triple representation, and derives four explicit parametric families from cyclic triple-collision templates.
+
+[Manuscript PDF](papers/multiplicity-thresholds-sidon-divisor-sets.pdf)
+
+[Related OEIS sequences](oeis.md)
+
+---
+
+## Saturated Sidon Sets in Consecutive Intervals: The Eight-Mark Threshold Is 144
+
+**Author:** Felix Huber  
+**Status:** Preprint  
+**Date:** August 2026
+
+This paper proves that 144 is the largest interval length admitting an inclusion-maximal Sidon set with eight elements. It gives an explicit witness at 144 and proves that no such set exists for any n >= 145.
+
+[Current manuscript (PDF)](papers/saturated-sidon-eight-mark-threshold.pdf)
+
+[Related OEIS sequences](oeis.md)
+
 ## Sidon Subsets and Pair-Sum Multiplicities of Distinct Multinomial Coefficients
 
 **Author:** Felix Huber  
@@ -15,6 +39,20 @@ This paper studies large Sidon subsets and repeated pair sums in sets of distinc
 [Current manuscript (PDF)](papers/Huber_Sidon_Pair_Sum_AMUC.pdf)
 
 [Earlier version on arXiv](https://arxiv.org/abs/2608.02667)
+
+[Related OEIS sequences](oeis.md)
+
+---
+
+## Primitive Coefficient Heights in Finite Rational Möbius Orbits
+
+**Author:** Felix Huber  
+**Status:** Preprint  
+**Date:** August 2026
+
+This paper studies primitive coefficient heights arising from finite rational Möbius orbits. It proves periodicity of the normalization content, derives asymptotic counting laws for primitive orbit forms, and analyzes height collisions in the possible finite subgroup orders of PGL₂(Q).
+
+[Current manuscript (PDF)](papers/primitive-coefficient-heights-mobius-orbits.pdf)
 
 [Related OEIS sequences](oeis.md)
 
@@ -45,34 +83,6 @@ Starting from an integer composition, this paper studies repeated formation of c
 This paper classifies the maximum number of sides of a simple cyclic polygon with integer side lengths when the circumradius is semiprime. The possible values are 6, 8, and 18, governed by arithmetic conditions involving Gaussian and Eisenstein splitting.
 
 [Current manuscript (PDF)](papers/integer-sided-cyclic-polygons-semiprime-radius.pdf)
-
-[Related OEIS sequences](oeis.md)
-
----
-
-## Primitive Coefficient Heights in Finite Rational Möbius Orbits
-
-**Author:** Felix Huber  
-**Status:** Preprint  
-**Date:** August 2026
-
-This paper studies primitive coefficient heights arising from finite rational Möbius orbits. It proves periodicity of the normalization content, derives asymptotic counting laws for primitive orbit forms, and analyzes height collisions in the possible finite subgroup orders of PGL₂(Q).
-
-[Current manuscript (PDF)](papers/primitive-coefficient-heights-mobius-orbits.pdf)
-
-[Related OEIS sequences](oeis.md)
-
----
-
-## Saturated Sidon Sets in Consecutive Intervals: The Eight-Mark Threshold Is 144
-
-**Author:** Felix Huber  
-**Status:** Preprint  
-**Date:** August 2026
-
-This paper proves that 144 is the largest interval length admitting an inclusion-maximal Sidon set with eight elements. It gives an explicit witness at 144 and proves that no such set exists for any n >= 145.
-
-[Current manuscript (PDF)](papers/saturated-sidon-eight-mark-threshold.pdf)
 
 [Related OEIS sequences](oeis.md)
 
