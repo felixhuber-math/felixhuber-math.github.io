@@ -4,6 +4,27 @@
 
 # OEIS Sequences
 
+## Multiplicity Thresholds for Sidon Divisor Sets and Cyclic Triple Collisions
+
+- [A398433](https://oeis.org/A398433) — Divisibility-minimal integers whose sets of positive divisors are not Sidon.
+- [A398434](https://oeis.org/A398434) — Maximum cardinality of a Sidon subset of the set of positive divisors of n.
+- [A398435](https://oeis.org/A398435) — Collision excess among unordered pairwise sums of positive divisors of n.
+- [A398577](https://oeis.org/A398577) — Maximum number of unordered representations of one integer as a sum of two positive divisors of n.
+
+[Related research paper](research.md)
+
+---
+
+## Saturated Sidon Sets in Consecutive Intervals: The Eight-Mark Threshold Is 144
+
+- [A399118](https://oeis.org/A399118) — Triangle counting inclusion-maximal Sidon subsets of {1, ..., n} by cardinality.
+- [A399119](https://oeis.org/A399119) — Number of cardinalities occurring among inclusion-maximal Sidon subsets of {1, ..., n}.
+- [A382397](https://oeis.org/A382397) — Minimum cardinality of an inclusion-maximal Sidon subset of {1, ..., n}.
+
+[Related research paper](research.md)
+
+---
+
 ## Sidon Subsets and Pair-Sum Multiplicities of Distinct Multinomial Coefficients
 
 The following OEIS sequences are related to this research project:
@@ -17,6 +38,14 @@ The following OEIS sequences are related to this research project:
 - [A398237](https://oeis.org/A398237) — Multiply represented pair sums by number of variables.
 - [A398230](https://oeis.org/A398230) — Trinomial pair-sum collision excess.
 - [A398231](https://oeis.org/A398231) — Multiply represented trinomial pair sums.
+
+[Related research paper](research.md)
+
+---
+
+## Primitive Coefficient Heights in Finite Rational Möbius Orbits
+
+- [A365892](https://oeis.org/A365892) — Increasing sequence of primitive coefficient heights arising from the involution case of the finite rational Möbius-orbit construction.
 
 [Related research paper](research.md)
 
@@ -37,21 +66,4 @@ The following OEIS sequences are related to this research project:
 
 [Related research paper](research.md)
 
----
-
-## Primitive Coefficient Heights in Finite Rational Möbius Orbits
-
-- [A365892](https://oeis.org/A365892) — Increasing sequence of primitive coefficient heights arising from the involution case of the finite rational Möbius-orbit construction.
-
-[Related research paper](research.md)
-
----
-
-## Saturated Sidon Sets in Consecutive Intervals: The Eight-Mark Threshold Is 144
-
-- [A399118](https://oeis.org/A399118) — Triangle counting inclusion-maximal Sidon subsets of {1, ..., n} by cardinality.
-- [A399119](https://oeis.org/A399119) — Number of cardinalities occurring among inclusion-maximal Sidon subsets of {1, ..., n}.
-- [A382397](https://oeis.org/A382397) — Minimum cardinality of an inclusion-maximal Sidon subset of {1, ..., n}.
-
-[Related research paper](research.md)
 
