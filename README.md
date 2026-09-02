@@ -21,7 +21,3 @@ Mathematics Teacher and Independent Researcher
 ## About
 
 [About me](about.md)
-
-## Contact
-
-GitHub: https://github.com/felixhuber-math
