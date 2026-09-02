@@ -15,3 +15,6 @@ My research interests include:
 - Computational mathematics
 
 I also contribute integer sequences, computational data, and related material to the On-Line Encyclopedia of Integer Sequences (OEIS).
+
+[ORCID](https://orcid.org/0009-0005-1568-1579)
+
