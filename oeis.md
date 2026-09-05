@@ -66,4 +66,12 @@ The following OEIS sequences are related to this research project:
 
 [Related research paper](research.md)
 
+---
+
+## Digit-Set Preservation under Reversal Addition
+
+- [A398831](https://oeis.org/A398831) — Triangle T(n,k) counting k-element subsets of the nonzero base-n digits that occur as the exact digit set of both m and m + Rev_n(m).
+
+[Related research paper](research.md)
+
 
