@@ -82,7 +82,7 @@ Starting from an integer composition, this paper studies repeated formation of c
 
 This paper classifies the maximum number of sides of a simple cyclic polygon with integer side lengths when the circumradius is semiprime. The possible values are 6, 8, and 18, governed by arithmetic conditions involving Gaussian and Eisenstein splitting.
 
-[Current manuscript (PDF)](papers/integer-sided-cyclic-polygons-semiprime-radius.pdf)
+[Manuscript PDF](papers/integer-sided-cyclic-polygons-semiprime-radius.pdf)
 
 [Related OEIS sequences](oeis.md)
 
