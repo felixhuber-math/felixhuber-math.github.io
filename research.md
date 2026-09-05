@@ -77,3 +77,15 @@ This paper classifies the maximum number of sides of a simple cyclic polygon wit
 [Current Manuscript](/papers/Huber_Integer_Sided_Cyclic_Polygons_Semiprime_Radii_Final.pdf)
 
 [Related OEIS sequences](oeis.md)
+
+---
+
+## Digit-Set Preservation under Reversal Addition
+
+**Status:** Preprint
+
+This paper studies subsets of nonzero base-n digits that are preserved under reversal addition. It develops a two-sided carry automaton, proves structural results for realizable digit sets, and determines an exact Pascal-triangle tail for sufficiently dense digit sets.
+
+[Current Manuscript](/papers/Digit_Set_Preservation_under_Reversal_Addition_FINAL.pdf)
+
+[Related OEIS sequences](oeis.md)
