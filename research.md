@@ -60,7 +60,7 @@ This paper studies primitive coefficient heights arising from finite rational MÃ
 
 Starting from an integer composition, this paper studies repeated formation of consecutive absolute differences under a distinctness condition. It determines the exact minimum integer admitting a composition of any prescribed depth, proves that all larger integers also occur, and classifies the extremal compositions.
 
-[Current Manuscript](/papers/iterated-distinct-absolute-differences.pdf)
+[Current Manuscript](papers/iterated-distinct-absolute-differences.pdf)
 
 [arXiv](https://arxiv.org/abs/2608.04468)
 
