@@ -10,7 +10,7 @@
 
 This paper studies additive collisions in sets of positive divisors. It proves sharp multiplicity thresholds for squarefree divisibility-minimal non-Sidon integers, determines the two smallest examples with a triple representation, and derives four explicit parametric families from cyclic triple-collision templates.
 
-[Current Manuscript](papers/multiplicity-thresholds-sidon-divisor-sets.pdf)
+[Current Manuscript](/papers/multiplicity-thresholds-sidon-divisor-sets.pdf)
 
 [Related OEIS sequences](oeis.md)
 
@@ -22,7 +22,7 @@ This paper studies additive collisions in sets of positive divisors. It proves s
 
 This paper proves that 144 is the largest interval length admitting an inclusion-maximal Sidon set with eight elements. It gives an explicit witness at 144 and proves that no such set exists for any n >= 145.
 
-[Current Manuscript](papers/Huber_Saturated_Sidon_E8_Threshold_144_arXiv_preview%20(2).pdf)
+[Current Manuscript](/papers/Huber_Saturated_Sidon_E8_Threshold_144_arXiv_preview%20%282%29.pdf)
 
 [Related OEIS sequences](oeis.md)
 
@@ -34,7 +34,7 @@ This paper proves that 144 is the largest interval length admitting an inclusion
 
 This paper studies large Sidon subsets and repeated pair sums in sets of distinct multinomial coefficients. It combines a product embedding with Sidon extraction, prime-partition estimates, arithmetic progressions, and pair-sum multiplicity arguments.
 
-[Current Manuscript](papers/Huber_Sidon_Pair_Sum_AMUC.pdf)
+[Current Manuscript](/papers/Huber_Sidon_Pair_Sum_AMUC.pdf)
 
 [arXiv](https://arxiv.org/abs/2608.02667)
 
@@ -46,9 +46,9 @@ This paper studies large Sidon subsets and repeated pair sums in sets of distinc
 
 **Status:** Preprint
 
-This paper studies primitive coefficient heights arising from finite rational Möbius orbits. It proves periodicity of the normalization content, derives asymptotic counting laws for primitive orbit forms, and analyzes height collisions in the possible finite subgroup orders of PGL₂(Q).
+This paper studies primitive coefficient heights arising from finite rational Möbius orbits. It proves periodicity of the normalization content, derives asymptotic counting laws for primitive orbit forms, and analyzes height collisions in the possible finite subgroup orders of PGL2(Q).
 
-[Current Manuscript](papers/Huber_AUSM_manuscript.pdf)
+[Current Manuscript](/papers/Huber_AUSM_manuscript.pdf)
 
 [Related OEIS sequences](oeis.md)
 
@@ -60,7 +60,7 @@ This paper studies primitive coefficient heights arising from finite rational M�
 
 Starting from an integer composition, this paper studies repeated formation of consecutive absolute differences under a distinctness condition. It determines the exact minimum integer admitting a composition of any prescribed depth, proves that all larger integers also occur, and classifies the extremal compositions.
 
-[Current Manuscript](papers/iterated-distinct-absolutedifferences.pdf)
+[Current Manuscript](/papers/iterated-distinct-absolute-differences.pdf)
 
 [arXiv](https://arxiv.org/abs/2608.04468)
 
@@ -74,6 +74,6 @@ Starting from an integer composition, this paper studies repeated formation of c
 
 This paper classifies the maximum number of sides of a simple cyclic polygon with integer side lengths when the circumradius is semiprime. The possible values are 6, 8, and 18, governed by arithmetic conditions involving Gaussian and Eisenstein splitting.
 
-[Current Manuscript](papers/Huber_Integer_Sided_Cyclic_Polygons_Semiprime_Radii_Final.pdf)
+[Current Manuscript](/papers/Huber_Integer_Sided_Cyclic_Polygons_Semiprime_Radii_Final.pdf)
 
 [Related OEIS sequences](oeis.md)
