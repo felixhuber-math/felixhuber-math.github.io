@@ -83,3 +83,12 @@ The following OEIS sequences are related to this research project:
 - [A397123](https://oeis.org/A397123) — Reduced primitive Pythagorean hypotenuses arising from arbitrary triples of Pythagorean points, ordered by minimal global certificate height.
 
 [Related research paper](research.md)
+
+---
+
+## Digital Obstructions to Signed Pascal Representations of Lucas Numbers
+
+- [A399744](https://oeis.org/A399744) — Minimum number of entries from row n of Pascal's triangle needed to represent Lucas(n) as a signed sum, with each position used at most once; 0 if no such representation exists.
+- [A399745](https://oeis.org/A399745) — Positive indices n for which A399744(n) = 0.
+
+[Related research paper](research.md)
