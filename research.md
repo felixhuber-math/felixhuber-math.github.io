@@ -89,3 +89,13 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 [Current Manuscript](/papers/Digit_Set_Preservation_under_Reversal_Addition_FINAL.pdf)
 
 [Related OEIS sequences](oeis.md)
+
+---
+
+### Which Reduced Hypotenuses Arise from Three Pythagorean Points?
+
+*An Elliptic Envelope, a Global Certificate Height, and Two Realizability Questions*
+
+Felix Huber, 2026
+
+[PDF](papers/Right_Triangles_from_Pythagorean_Points.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.22666219)
