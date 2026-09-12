@@ -92,10 +92,14 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 
 ---
 
-### Which Reduced Hypotenuses Arise from Three Pythagorean Points?
+## Which Reduced Hypotenuses Arise from Three Pythagorean Points?
 
-*An Elliptic Envelope, a Global Certificate Height, and Two Realizability Questions*
+**Status:** Preprint
 
-Felix Huber, 2026
+This paper studies reduced primitive Pythagorean hypotenuses arising from right triangles determined by three Pythagorean points in three-space. It develops an elliptic-curve envelope for a special family, introduces a global scale-free certificate height for unrestricted configurations, proves exact finite completeness within bounded certificate height, and isolates two open realizability questions connecting the arithmetic and geometric value sets.
 
-[PDF](papers/Right_Triangles_from_Pythagorean_Points.pdf) · [Zenodo](https://doi.org/10.5281/zenodo.22666219)
+[Current Manuscript](/papers/Right_Triangles_from_Pythagorean_Points.pdf)
+
+[Zenodo](https://doi.org/10.5281/zenodo.22666219)
+
+[Related OEIS sequences](oeis.md)
