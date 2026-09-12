@@ -74,4 +74,12 @@ The following OEIS sequences are related to this research project:
 
 [Related research paper](research.md)
 
+---
 
+## Which Reduced Hypotenuses Arise from Three Pythagorean Points?
+
+- [A399309](https://oeis.org/A399309) — Increasing sequence of reduced primitive Pythagorean hypotenuses arising from the explicit three-point construction studied in the paper.
+- [A399677](https://oeis.org/A399677) — Increasing sequence of primitive Pythagorean hypotenuses arising from rational points on the associated genus-one quartic.
+- [A397123](https://oeis.org/A397123) — Reduced primitive Pythagorean hypotenuses arising from arbitrary triples of Pythagorean points, ordered by minimal global certificate height.
+
+[Related research paper](research.md)
