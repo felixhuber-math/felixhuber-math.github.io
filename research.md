@@ -103,3 +103,16 @@ This paper studies reduced primitive Pythagorean hypotenuses arising from right 
 [Zenodo](https://doi.org/10.5281/zenodo.22666219)
 
 [Related OEIS sequences](oeis.md)
+
+---
+
+## Digital Obstructions to Signed Pascal Representations of Lucas Numbers
+
+**Author:** Felix Huber  
+**Status:** Submitted to *Mathematica Bohemica*  
+**Date:** September 2026
+
+This paper studies signed representations of Lucas numbers by entries from a single row of Pascal's triangle. Starting from OEIS A399744, it develops a local obstruction theory based on Lucas' theorem, Frobenius, sparse prime-base expansions, local signatures, range-exact lifting, matching, and ramified behavior at 5. The paper proves the first nontrivial zero a(26) = 0, gives parametric families of zero terms, classifies a low-dimensional family of obstruction types, and develops a further tensor-selector mechanism that includes the first known odd zero, n = 113.
+
+[Manuscript PDF](papers/digital-obstructions-lucas-pascal.pdf)  
+[Related OEIS sequences](oeis.md)
