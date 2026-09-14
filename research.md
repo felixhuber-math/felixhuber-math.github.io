@@ -12,7 +12,7 @@ This paper studies gaps in the spectra of inclusion-maximal Sidon subsets of div
 
 [Computational archive](https://doi.org/10.5281/zenodo.22720962)
 
-[OEIS A399802](https://oeis.org/A399802)
+[Related OEIS sequences](oeis.md)
 
 ---
 
