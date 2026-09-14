@@ -4,6 +4,14 @@
 
 # OEIS Sequences
 
+## A Sunflower Classification of Gaps in Maximal Sidon Spectra of Four-Prime Divisor Sets
+
+- [A399802](https://oeis.org/A399802) — Squarefree integers with four distinct prime factors for which the cardinalities of inclusion-maximal Sidon subsets of the divisor set do not form an interval.
+
+[Related research paper](research.md)
+
+---
+
 ## Multiplicity Thresholds for Sidon Divisor Sets and Cyclic Triple Collisions
 
 - [A398433](https://oeis.org/A398433) — Divisibility-minimal integers whose sets of positive divisors are not Sidon.
