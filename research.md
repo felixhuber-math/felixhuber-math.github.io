@@ -106,20 +106,6 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 
 ---
 
-## Which Reduced Hypotenuses Arise from Three Pythagorean Points?
-
-**Status:** Preprint
-
-This paper studies reduced primitive Pythagorean hypotenuses arising from right triangles determined by three Pythagorean points in three-space. It develops an elliptic-curve envelope for a special family, introduces a global scale-free certificate height for unrestricted configurations, proves exact finite completeness within bounded certificate height, and isolates two open realizability questions connecting the arithmetic and geometric value sets.
-
-[Current Manuscript](/papers/Right_Triangles_from_Pythagorean_Points.pdf)
-
-[Zenodo](https://doi.org/10.5281/zenodo.22666219)
-
-[Related OEIS sequences](oeis.md)
-
----
-
 ## Digital Obstructions to Signed Pascal Representations of Lucas Numbers
 
 **Author:** Felix Huber  
