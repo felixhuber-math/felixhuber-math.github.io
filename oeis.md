@@ -84,16 +84,6 @@ The following OEIS sequences are related to this research project:
 
 ---
 
-## Which Reduced Hypotenuses Arise from Three Pythagorean Points?
-
-- [A399309](https://oeis.org/A399309) — Increasing sequence of reduced primitive Pythagorean hypotenuses arising from the explicit three-point construction studied in the paper.
-- [A399677](https://oeis.org/A399677) — Increasing sequence of primitive Pythagorean hypotenuses arising from rational points on the associated genus-one quartic.
-- [A397123](https://oeis.org/A397123) — Reduced primitive Pythagorean hypotenuses arising from arbitrary triples of Pythagorean points, ordered by minimal global certificate height.
-
-[Related research paper](research.md)
-
----
-
 ## Digital Obstructions to Signed Pascal Representations of Lucas Numbers
 
 - [A399744](https://oeis.org/A399744) — Minimum number of entries from row n of Pascal's triangle needed to represent Lucas(n) as a signed sum, with each position used at most once; 0 if no such representation exists.
