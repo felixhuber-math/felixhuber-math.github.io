@@ -1,5 +1,7 @@
 [Home](index.md) | [Research](research.md) | [OEIS](oeis.md) | [About](about.md)
 
+# Research Papers
+
 ## A Sunflower Classification of Gaps in Maximal Sidon Spectra of Four-Prime Divisor Sets
 
 **Status:** Submitted to *Journal of Combinatorial Mathematics and Combinatorial Computing*
@@ -13,8 +15,6 @@ This paper studies gaps in the spectra of inclusion-maximal Sidon subsets of div
 [Related OEIS sequences](oeis.md)
 
 ---
-
-# Research Papers
 
 ## Multiplicity Thresholds for Sidon Divisor Sets and Cyclic Triple Collisions
 
