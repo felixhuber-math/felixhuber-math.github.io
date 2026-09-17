@@ -1,7 +1,5 @@
 [Home](index.md) | [Research](research.md) | [OEIS](oeis.md) | [About](about.md)
 
----
-
 ## A Sunflower Classification of Gaps in Maximal Sidon Spectra of Four-Prime Divisor Sets
 
 **Status:** Submitted to *Journal of Combinatorial Mathematics and Combinatorial Computing*
