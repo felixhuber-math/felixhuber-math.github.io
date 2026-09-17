@@ -12,6 +12,14 @@
 
 ---
 
+## Divisibility-Free Subsets in Rows of Pascal's Triangle
+
+- [A399060](https://oeis.org/A399060) — Maximum size of a subset of the distinct entries in row n of Pascal's triangle such that no selected entry divides another.
+
+[Related research paper](research.md)
+
+---
+
 ## Multiplicity Thresholds for Sidon Divisor Sets and Cyclic Triple Collisions
 
 - [A398433](https://oeis.org/A398433) — Divisibility-minimal integers whose sets of positive divisors are not Sidon.
