@@ -16,6 +16,18 @@ This paper studies gaps in the spectra of inclusion-maximal Sidon subsets of div
 
 ---
 
+## Maximum Cardinality of Divisibility-Free Subsets in Rows of Pascal's Triangle
+
+**Status:** Preprint
+
+We study the maximum cardinality of a subset of the distinct entries in a row of Pascal's triangle in which no selected entry divides another. The problem is interpreted as the width of a divisibility poset. We prove a general asymptotic lower bound of order \(n/\log n\), obtain a positive linear lower bound for rows of the form \(p-1\) with \(p\) prime, and give an exact computation via Dilworth's theorem and bipartite matching.
+
+[Current Manuscript](https://felixhuber-math.github.io/papers/Huber_A399060_preprint.pdf)
+
+[Related OEIS sequences](oeis.md)
+
+---
+
 ## Multiplicity Thresholds for Sidon Divisor Sets and Cyclic Triple Collisions
 
 **Status:** Preprint
