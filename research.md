@@ -4,7 +4,7 @@
 
 ## A Sunflower Classification of Gaps in Maximal Sidon Spectra of Four-Prime Divisor Sets
 
-**Status:** Submitted to *Journal of Combinatorial Mathematics and Combinatorial Computing*
+**Status:** Submitted.
 
 This paper studies gaps in the spectra of inclusion-maximal Sidon subsets of divisor sets of squarefree integers with four prime factors. It develops a collision-clutter and minimal-transversal framework, proves a degree-two interval theorem and a degree-three concurrence principle, and gives a complete hybrid classification of all gap mechanisms. The classification reduces to six generic systems governed by a common local sunflower structure.
 
@@ -130,7 +130,7 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 
 ## Digital Obstructions to Signed Pascal Representations of Lucas Numbers
 
-**Status:** Submitted to *Mathematica Bohemica*
+**Status:** Submitted
 
 This paper studies signed representations of Lucas numbers by entries from a single row of Pascal’s triangle. Starting from OEIS A399744, it develops a local obstruction theory based on Lucas’ theorem, Frobenius, sparse prime-base expansions, local signatures, range-exact lifting, matching, and ramified behavior at 5. The paper proves the first nontrivial zero a(26) = 0, gives parametric families of zero terms, classifies a low-dimensional family of obstruction types, and develops a further tensor-selector mechanism that includes the first known odd zero, n = 113.
 
