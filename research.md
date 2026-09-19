@@ -16,6 +16,20 @@ This paper studies gaps in the spectra of inclusion-maximal Sidon subsets of div
 
 ---
 
+## Extremal Least Common Multiples in Rows of Pascal's Triangle
+
+**Status:** Preprint
+
+This paper studies the least possible LCM of n distinct entries chosen from a common row of Pascal's triangle. It develops an exact prime-power exclusion formulation, proves log a(n) ~ 2n, and shows that every optimal row satisfies r_n = 2n + o(n). The same structure explains finite non-prefix and multi-hole optimal supports, with the computational results independently reproducible.
+
+[Current Manuscript](/papers/extremal-lcm-pascal-rows.pdf)
+
+[OEIS A399069](https://oeis.org/A399069)
+
+[Related OEIS sequences](oeis.md)
+
+---
+
 ## Maximum Cardinality of Divisibility-Free Subsets in Rows of Pascal's Triangle
 
 **Status:** Preprint
