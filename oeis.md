@@ -12,17 +12,11 @@
 
 ---
 
-## A399069
+## Extremal Least Common Multiples in Rows of Pascal's Triangle
 
-**Name:** a(n) is the least positive integer divisible by at least n distinct entries of a single row of Pascal's triangle.
+- [A399069](https://oeis.org/A399069) — Least positive integer divisible by at least n distinct entries of a single row of Pascal's triangle.
 
-**Status:** Draft
-
-This sequence records the minimum possible LCM of n distinct entries chosen from a common row of Pascal's triangle.
-
-[OEIS A399069](https://oeis.org/A399069)
-
-[Related paper: *Extremal Least Common Multiples in Rows of Pascal's Triangle*](/papers/extremal-lcm-pascal-rows.pdf)
+[Related research paper](research.md)
 
 ---
 
