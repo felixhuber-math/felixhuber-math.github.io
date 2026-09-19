@@ -38,7 +38,18 @@ We study the maximum cardinality of a subset of the distinct entries in a row of
 
 [Related OEIS sequences](oeis.md)
 
+```markdown
 ---
+
+## Divisibility Between Adjacent Entries of the Narayana Triangle
+
+**Status:** Preprint
+
+This paper studies divisibility between adjacent entries in the strictly increasing half of rows of the Narayana triangle. It gives an exact arithmetic criterion, proves periodicity for each fixed position, determines the corresponding natural densities, and shows that the number of nontrivial adjacent divisibilities in a row is unbounded.
+
+[Current Manuscript](/papers/divisibility-between-adjacent-entries-of-the-narayana-triangle.pdf)
+
+[Related OEIS sequences](oeis.md)
 
 ---
 
