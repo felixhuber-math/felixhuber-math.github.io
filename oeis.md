@@ -12,6 +12,20 @@
 
 ---
 
+## A399069
+
+**Name:** a(n) is the least positive integer divisible by at least n distinct entries of a single row of Pascal's triangle.
+
+**Status:** Draft
+
+This sequence records the minimum possible LCM of n distinct entries chosen from a common row of Pascal's triangle.
+
+[OEIS A399069](https://oeis.org/A399069)
+
+[Related paper: *Extremal Least Common Multiples in Rows of Pascal's Triangle*](/papers/extremal-lcm-pascal-rows.pdf)
+
+---
+
 ## Divisibility-Free Subsets in Rows of Pascal's Triangle
 
 - [A399060](https://oeis.org/A399060) — Maximum size of a subset of the distinct entries in row n of Pascal's triangle such that no selected entry divides another.
