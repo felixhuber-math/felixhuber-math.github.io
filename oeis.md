@@ -28,6 +28,14 @@
 
 ---
 
+## Adjacent Divisibilities in the Narayana Triangle
+
+- [A400125](https://oeis.org/A400125) — Number of nontrivial adjacent divisibilities in the strictly increasing half of row n of the Narayana triangle.
+
+[Related research paper](research.md)
+
+---
+
 ## Multiplicity Thresholds for Sidon Divisor Sets and Cyclic Triple Collisions
 
 - [A398433](https://oeis.org/A398433) — Divisibility-minimal integers whose sets of positive divisors are not Sidon.
