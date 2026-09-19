@@ -4,7 +4,7 @@
 
 ## A Sunflower Classification of Gaps in Maximal Sidon Spectra of Four-Prime Divisor Sets
 
-**Status:** Submitted.
+**Status:** Submitted
 
 This paper studies gaps in the spectra of inclusion-maximal Sidon subsets of divisor sets of squarefree integers with four prime factors. It develops a collision-clutter and minimal-transversal framework, proves a degree-two interval theorem and a degree-three concurrence principle, and gives a complete hybrid classification of all gap mechanisms. The classification reduces to six generic systems governed by a common local sunflower structure.
 
