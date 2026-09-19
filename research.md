@@ -38,7 +38,6 @@ We study the maximum cardinality of a subset of the distinct entries in a row of
 
 [Related OEIS sequences](oeis.md)
 
-```markdown
 ---
 
 ## Divisibility Between Adjacent Entries of the Narayana Triangle
