@@ -6,7 +6,7 @@
 
 ## Antichains among Divisor Sums of Divisors
 
-- [A400286](https://oeis.org/A400286) — Maximum number of distinct values $\sigma(d)$, with $d\mid n$, no one of which divides another.
+- [A400286](https://oeis.org/A400286) — Maximum number of distinct values sigma(d), as d runs through the positive divisors of n, no one of which divides another.
 
 [Related research paper](research.md)
 
