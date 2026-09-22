@@ -4,6 +4,12 @@
 
 # OEIS Sequences
 
+## Antichains among Divisor Sums of Divisors
+
+- [A400286](https://oeis.org/A400286) — Maximum number of distinct values \(\sigma(d)\), with \(d\mid n\), no one of which divides another.
+
+---
+
 ## A Sunflower Classification of Gaps in Maximal Sidon Spectra of Four-Prime Divisor Sets
 
 - [A399802](https://oeis.org/A399802) — Squarefree integers with four distinct prime factors for which the cardinalities of inclusion-maximal Sidon subsets of the divisor set do not form an interval.
