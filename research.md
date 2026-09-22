@@ -10,8 +10,6 @@ For a positive integer \(n\), let \(S(n)=\{\sigma(d): d\mid n\}\), ordered by di
 
 [Current Manuscript](/papers/antichains-divisor-sums.pdf)
 
-[OEIS A400286](https://oeis.org/A400286)
-
 [Related OEIS sequences](oeis.md)
 
 ---
