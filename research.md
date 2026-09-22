@@ -6,11 +6,11 @@
 
 **Status:** Preprint
 
-For a positive integer n, let S(n) be the set of values σ(d) as d runs through the positive divisors of n, ordered by divisibility. This paper studies the width of this poset. It determines the maximum width for every fixed prime-exponent pattern, proves the complete width spectrum for squarefree integers, and determines the optimal representation variance of the divisibility posets D_m, including a sharp reduction to the prime directions 2 and 3.
+For a positive integer n, let S(n) be the set of values sigma(d) as d runs through the positive divisors of n, ordered by divisibility. This paper studies the width of this poset. It determines the maximum width for every fixed prime-exponent pattern, proves the complete width spectrum for squarefree integers, and determines the optimal representation variance of the divisibility posets D_m, including a sharp reduction to the prime directions 2 and 3.
 
-[Current Manuscript](https://felixhuber-math.github.io/papers/antichains-divisor-sums.pdf)
+[Current Manuscript](/papers/antichains-divisor-sums.pdf)
 
-[Related OEIS sequences](https://felixhuber-math.github.io/oeis.html)
+[Related OEIS sequences](oeis.md)
 
 ---
 
