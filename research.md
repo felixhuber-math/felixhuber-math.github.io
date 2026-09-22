@@ -1,4 +1,4 @@
-[Home](index.md) | [Research](research.md) | [OEIS](oeis.md) | [About](about.md)
+[Home](/) | [Research](/research.html) | [OEIS](/oeis.html) | [About](/about.html)
 
 # Research Papers
 
@@ -10,7 +10,7 @@ For a positive integer n, let S(n) = {Ïƒ(d) : d | n}, ordered by divisibility. T
 
 [Current Manuscript](/papers/antichains-divisor-sums.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -24,7 +24,7 @@ This paper studies gaps in the spectra of inclusion-maximal Sidon subsets of div
 
 [Computational archive](https://doi.org/10.5281/zenodo.22720962)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -36,7 +36,7 @@ This paper studies the least possible LCM of n distinct entries chosen from a co
 
 [Current Manuscript](/papers/extremal-lcm-pascal-rows.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -48,7 +48,7 @@ We study the maximum cardinality of a subset of the distinct entries in a row of
 
 [Current Manuscript](/papers/Divisibility_Free_Subsets_Pascal.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -60,7 +60,7 @@ This paper studies divisibility between adjacent entries in the strictly increas
 
 [Current Manuscript](/papers/divisibility-between-adjacent-entries-of-the-narayana-triangle.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -72,7 +72,7 @@ This paper studies additive collisions in sets of positive divisors. It proves s
 
 [Current Manuscript](/papers/multiplicity-thresholds-sidon-divisor-sets.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -84,7 +84,7 @@ This paper proves that 144 is the largest interval length admitting an inclusion
 
 [Current Manuscript](/papers/Huber_Saturated_Sidon_E8_Threshold_144_arXiv_preview%20%282%29.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -98,7 +98,7 @@ This paper studies large Sidon subsets and repeated pair sums in sets of distinc
 
 [arXiv](https://arxiv.org/abs/2608.02667)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -110,7 +110,7 @@ This paper studies primitive coefficient heights arising from finite rational MÃ
 
 [Current Manuscript](/papers/Huber_AUSM_manuscript.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -120,11 +120,11 @@ This paper studies primitive coefficient heights arising from finite rational MÃ
 
 Starting from an integer composition, this paper studies repeated formation of consecutive absolute differences under a distinctness condition. It determines the exact minimum integer admitting a composition of any prescribed depth, proves that all larger integers also occur, and classifies the extremal compositions.
 
-[Current Manuscript](papers/iterated-distinct-absolute-differences.pdf)
+[Current Manuscript](/papers/iterated-distinct-absolute-differences.pdf)
 
 [arXiv](https://arxiv.org/abs/2608.04468)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -136,7 +136,7 @@ This paper classifies the maximum number of sides of a simple cyclic polygon wit
 
 [Current Manuscript](/papers/Huber_Integer_Sided_Cyclic_Polygons_Semiprime_Radii_Final.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -148,7 +148,7 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 
 [Current Manuscript](/papers/Digit_Set_Preservation_under_Reversal_Addition_FINAL.pdf)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequences](/oeis.html)
 
 ---
 
@@ -158,6 +158,6 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 
 This paper studies signed representations of Lucas numbers by entries from a single row of Pascalâ€™s triangle. Starting from OEIS A399744, it develops a local obstruction theory based on Lucasâ€™ theorem, Frobenius, sparse prime-base expansions, local signatures, range-exact lifting, matching, and ramified behavior at 5. The paper proves the first nontrivial zero a(26) = 0, gives parametric families of zero terms, classifies a low-dimensional family of obstruction types, and develops a further tensor-selector mechanism that includes the first known odd zero, n = 113.
 
-[Manuscript PDF](https://felixhuber-math.github.io/papers/digital-obstructions-lucas-pascal.pdf)
+[Manuscript PDF](/papers/digital-obstructions-lucas-pascal.pdf)
 
-[Related OEIS sequences](https://felixhuber-math.github.io/oeis.html)
+[Related OEIS sequences](/oeis.html)
