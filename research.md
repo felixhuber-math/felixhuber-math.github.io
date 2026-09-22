@@ -2,6 +2,20 @@
 
 # Research Papers
 
+## Antichains among Divisor Sums of Divisors
+
+**Status:** Preprint
+
+For a positive integer \(n\), let \(S(n)=\{\sigma(d): d\mid n\}\), ordered by divisibility. This paper studies the width of this poset. It determines the maximum width for every fixed prime-exponent pattern, proves the complete width spectrum for squarefree integers, and determines the optimal representation variance of the divisibility posets \(D_m\), including a sharp reduction to the prime directions \(2\) and \(3\).
+
+[Current Manuscript](/papers/antichains-divisor-sums.pdf)
+
+[OEIS A400286](https://oeis.org/A400286)
+
+[Related OEIS sequences](oeis.md)
+
+---
+
 ## A Sunflower Classification of Gaps in Maximal Sidon Spectra of Four-Prime Divisor Sets
 
 **Status:** Submitted
