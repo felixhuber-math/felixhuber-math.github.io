@@ -8,6 +8,8 @@
 
 - [A400286](https://oeis.org/A400286) — Maximum number of distinct values \(\sigma(d)\), with \(d\mid n\), no one of which divides another.
 
+[Related research paper](research.md)
+
 ---
 
 ## A Sunflower Classification of Gaps in Maximal Sidon Spectra of Four-Prime Divisor Sets
