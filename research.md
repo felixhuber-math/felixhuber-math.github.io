@@ -36,6 +36,8 @@ This paper studies the least possible LCM of n distinct entries chosen from a co
 
 [Manuscript](/papers/extremal-lcm-pascal-rows.pdf)
 
+[arXiv](https://arxiv.org/pdf/2609.23024)
+
 [Related OEIS sequences](oeis.md)
 
 ---
