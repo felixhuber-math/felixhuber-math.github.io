@@ -10,6 +10,8 @@ This note determines the number of distinct areas of triangles formed by three v
 
 [Proof note](/papers/equal-areas-regular-polygons.pdf)
 
+[Zenodo archive](https://doi.org/10.5281/zenodo.22932788)
+
 [Verification code](/papers/verify_classification.py)
 
 [Independent data check](/papers/verify_data.py)
