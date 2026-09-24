@@ -2,6 +2,22 @@
 
 # Research Papers
 
+## Equal Areas of Vertex Triangles in a Regular Polygon
+
+*24 September 2026*
+
+This note determines the number of distinct areas of triangles formed by three vertices of a regular n-gon. It classifies all pairs of noncongruent vertex triangles with equal area and gives a closed formula for their number. The proof uses a classification of short vanishing sums of roots of unity together with an exact finite verification.
+
+[Proof note](/papers/equal-areas-regular-polygons.pdf)
+
+[Verification code](/papers/verify_classification.py)
+
+[Independent data check](/papers/verify_data.py)
+
+[Related OEIS sequences](oeis.md)
+
+---
+
 ## Antichains among Divisor Sums of Divisors
 
 *22 September 2026*
