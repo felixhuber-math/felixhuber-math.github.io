@@ -4,6 +4,14 @@
 
 # OEIS Sequences
 
+## Equal Areas of Vertex Triangles in a Regular Polygon
+
+- [A400213](https://oeis.org/A400213) — Number of distinct areas of triangles formed by three vertices of a regular n-gon.
+
+[Related research paper](research.md)
+
+---
+
 ## Antichains among Divisor Sums of Divisors
 
 - [A400286](https://oeis.org/A400286) — Maximum number of distinct values sigma(d), as d runs through the positive divisors of n, no one of which divides another.
