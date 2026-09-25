@@ -106,6 +106,8 @@ This paper proves that 144 is the largest interval length admitting an inclusion
 
 [Manuscript](/papers/Huber_Saturated_Sidon_E8_Threshold_144_arXiv_preview%20%282%29.pdf)
 
+[Zenodo archive](https://doi.org/10.5281/zenodo.22957286)
+
 [Related OEIS sequences](oeis.md)
 
 ---
