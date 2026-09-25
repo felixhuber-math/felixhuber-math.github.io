@@ -172,6 +172,8 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 
 [Manuscript](/papers/Digit_Set_Preservation_under_Reversal_Addition_FINAL.pdf)
 
+[Zenodo archive](https://doi.org/10.5281/zenodo.22957797)
+
 [Related OEIS sequences](oeis.md)
 
 ---
