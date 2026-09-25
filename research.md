@@ -92,7 +92,7 @@ This paper studies additive collisions in sets of positive divisors. It proves s
 
 [Manuscript](/papers/multiplicity-thresholds-sidon-divisor-sets.pdf)
 
-[Zenodo archive](https://doi.org/10.5281/zenodo.22957036)
+[Zenodo archive](https://zenodo.org/records/22957036)
 
 [Related OEIS sequences](oeis.md)
 
@@ -106,7 +106,7 @@ This paper proves that 144 is the largest interval length admitting an inclusion
 
 [Manuscript](/papers/Huber_Saturated_Sidon_E8_Threshold_144_arXiv_preview%20%282%29.pdf)
 
-[Zenodo archive](https://doi.org/10.5281/zenodo.22957286)
+[Zenodo archive](https://zenodo.org/records/22957286)
 
 [Related OEIS sequences](oeis.md)
 
@@ -172,7 +172,7 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 
 [Manuscript](/papers/Digit_Set_Preservation_under_Reversal_Addition_FINAL.pdf)
 
-[Zenodo archive](https://doi.org/10.5281/zenodo.22957797)
+[Zenodo archive](https://zenodo.org/records/22957797)
 
 [Related OEIS sequences](oeis.md)
 
