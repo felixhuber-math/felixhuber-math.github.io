@@ -92,6 +92,8 @@ This paper studies additive collisions in sets of positive divisors. It proves s
 
 [Manuscript](/papers/multiplicity-thresholds-sidon-divisor-sets.pdf)
 
+[Zenodo archive](https://doi.org/10.5281/zenodo.22957036)
+
 [Related OEIS sequences](oeis.md)
 
 ---
