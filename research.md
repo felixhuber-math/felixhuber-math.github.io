@@ -80,6 +80,8 @@ This paper studies divisibility between adjacent entries in the strictly increas
 
 [Manuscript](/papers/divisibility-between-adjacent-entries-of-the-narayana-triangle.pdf)
 
+[Zenodo archive](https://doi.org/10.5281/zenodo.22961844)
+
 [Related OEIS sequences](oeis.md)
 
 ---
