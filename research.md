@@ -2,6 +2,20 @@
 
 # Research Papers
 
+## Integer-Sided Triangles Meeting Three Sides of a Square
+
+*28 September 2026*
+
+This paper studies integer-sided triangles whose vertices can be placed on three distinct sides of a square, one vertex on each side. It gives an exact placement criterion, proves that for every fixed triangle the possible square sizes form an interval, determines the minimum square size by a four-region classification, and proves a two-term asymptotic formula for the associated counting sequence A400509.
+
+[Manuscript](/papers/integer-sided-triangles-square.pdf)
+
+[Zenodo archive](https://doi.org/10.5281/zenodo.23022345)
+
+[Related OEIS sequences](oeis.md)
+
+---
+
 ## Equal Areas of Vertex Triangles in a Regular Polygon
 
 *24 September 2026*
