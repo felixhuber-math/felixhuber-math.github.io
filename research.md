@@ -36,7 +36,7 @@ This note determines the number of distinct areas of triangles formed by three v
 
 ## Antichains among Divisor Sums of Divisors
 
-*22 September 2026*
+*30 September 2026*
 
 For a positive integer n, let S(n) be the set of values sigma(d) as d runs through the positive divisors of n, ordered by divisibility. This paper studies the width of this poset. It determines the maximum width for every fixed prime-exponent pattern, proves the complete width spectrum for squarefree integers, and determines the optimal representation variance of the divisibility posets D_m, including a sharp reduction to the prime directions 2 and 3.
 
