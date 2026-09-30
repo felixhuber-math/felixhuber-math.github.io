@@ -2,17 +2,17 @@
 
 # Research Papers
 
-## Integer-Sided Triangles Meeting Three Sides of a Square
+## Triangles Touching Three Sides of a Square
 
-*28 September 2026*
+*30 September 2026*
 
-This paper studies integer-sided triangles whose vertices can be placed on three distinct sides of a square, one vertex on each side. It gives an exact placement criterion, proves that for every fixed triangle the possible square sizes form an interval, determines the minimum square size by a four-region classification, and proves a two-term asymptotic formula for the associated counting sequence A400509.
+We study triangles whose three vertices lie on three different sides of a square. For a fixed triangle, the admissible square side lengths form a single interval. After normalizing the longest side, the smallest admissible square is determined explicitly by a four-region geometric classification. As an arithmetic application, the paper studies the integer-sided triangles counted by OEIS A400509 and proves a(n) = C n^3 + O(n^2), where C = 0.0776924549....
 
-[Manuscript](/papers/integer-sided-triangles-square.pdf)
+[Current Manuscript](/papers/Triangles_Touching_Three_Sides_of_a_Square.pdf)
 
-[Zenodo archive](https://doi.org/10.5281/zenodo.23022345)
+[Zenodo](https://doi.org/10.5281/zenodo.23057791)
 
-[Related OEIS sequences](oeis.md)
+[Related OEIS sequence](oeis.md)
 
 ---
 
