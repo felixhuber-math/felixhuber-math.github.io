@@ -4,9 +4,9 @@
 
 # OEIS Sequences
 
-## Integer-Sided Triangles Meeting Three Sides of a Square
+## Triangles Touching Three Sides of a Square
 
-- [A400509](https://oeis.org/A400509) — Number of distinct integer-sided triangles that can be placed with their vertices on three sides of a square of side n, one vertex on each side.
+- [A400509](https://oeis.org/A400509) — Number of distinct integer-sided triangles that can be placed with their vertices on three different sides of a square of side n.
 
 [Related research paper](research.md)
 
