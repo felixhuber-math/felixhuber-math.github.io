@@ -18,17 +18,13 @@ We study triangles whose three vertices lie on three different sides of a square
 
 ## Equal Areas of Vertex Triangles in a Regular Polygon
 
-*24 September 2026*
+*1 October 2026*
 
-This note determines the number of distinct areas of triangles formed by three vertices of a regular n-gon. It classifies all pairs of noncongruent vertex triangles with equal area and gives a closed formula for their number. The proof uses a classification of short vanishing sums of roots of unity together with an exact finite verification.
+This note determines the number of distinct areas of triangles formed by three vertices of a regular n-gon. It classifies all pairs of noncongruent vertex triangles with equal area and gives a closed formula for their number. The proof uses the classification of short vanishing sums of roots of unity together with an elementary phase reduction, and is entirely computer-free.
 
-[Proof note](/papers/equal-areas-regular-polygons.pdf)
+[Manuscript](/papers/equal-areas-regular-polygons.pdf)
 
-[Zenodo archive](https://doi.org/10.5281/zenodo.22932788)
-
-[Verification code](/papers/verify_classification.py)
-
-[Independent data check](/papers/verify_data.py)
+[Zenodo archive](https://doi.org/10.5281/zenodo.23082778)
 
 [Related OEIS sequences](oeis.md)
 
