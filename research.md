@@ -164,15 +164,17 @@ Starting from an integer composition, this paper studies repeated formation of c
 
 ---
 
-## A Classification of Integer-Sided Cyclic Polygons with Semiprime Radius
+## Semiprime Rigidity and Growth along Powers in Integer-Sided Cyclic Polygons
 
-*22 September 2026*
+2 October 2026
 
-This paper classifies the maximum number of sides of a simple cyclic polygon with integer side lengths when the circumradius is semiprime. The possible values are 6, 8, and 18, governed by arithmetic conditions involving Gaussian and Eisenstein splitting.
+For a positive integer n, let a(n) be the largest number of sides of a simple cyclic polygon with integer side lengths and circumradius n. The paper classifies semiprime radii, for which only the values 6, 8, and 18 occur. In contrast, for every fixed N >= 2, a(N^e) tends to infinity, with limsup a(N^e)/e >= 2. It also proves that a(n) is even whenever at most one distinct prime divisor of n is congruent to 1 modulo 4.
 
-[Manuscript](/papers/Huber_Integer_Sided_Cyclic_Polygons_Semiprime_Radii_Final.pdf)
+[Manuscript (PDF)](/papers/Semiprime_Rigidity_and_Growth_along_Powers.pdf) 
 
-[Related OEIS sequences](oeis.md)
+[Zenodo archive](https://doi.org/10.5281/zenodo.23106967) 
+
+[OEIS A398490](https://oeis.org/A398490)
 
 ---
 
