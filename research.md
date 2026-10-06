@@ -2,6 +2,20 @@
 
 # Research Papers
 
+## Congruence Classes of Triangles in a Cubical Grid
+
+*3 October 2026*
+
+For n >= 0, let G_n = {0, ..., n}^3. This paper studies the number of Euclidean congruence classes of nondegenerate triangles with vertices in G_n. It gives an exact finite encoding, proves strict monotonicity, and determines the sharp order of growth a(n) ≍ n^6/sqrt(log n). The proofs are computer-free.
+
+[Manuscript](/papers/congruence-classes-triangles-cubical-grid.pdf)
+
+[Zenodo archive](https://doi.org/10.5281/zenodo.23123033)
+
+**OEIS:** [A400663](https://oeis.org/A400663) — Number of congruence classes of nondegenerate triangles with vertices in the cubical grid {0, ..., n}^3.
+
+---
+
 ## Semiprime Rigidity and Growth along Powers in Integer-Sided Cyclic Polygons
 
 *2 October 2026*
@@ -21,9 +35,9 @@ For a positive integer n, let a(n) be the largest number of sides of a simple cy
 
 ## Equal Areas of Vertex Triangles in a Regular Polygon
 
-*1 October 2026*
+*24 September 2026*
 
-This note determines the number of distinct areas of triangles formed by three vertices of a regular n-gon. It classifies all pairs of noncongruent vertex triangles with equal area and gives a closed formula for their number. The proof uses the classification of short vanishing sums of roots of unity together with an elementary phase reduction, and is entirely computer-free.
+This paper determines the number of distinct areas of triangles formed by three vertices of a regular n-gon. It classifies all pairs of noncongruent vertex triangles with equal area and gives a closed formula for their number. The proof uses the classification of short vanishing sums of roots of unity together with an elementary phase reduction, and is entirely computer-free.
 
 [Manuscript](/papers/equal-areas-regular-polygons.pdf)
 
