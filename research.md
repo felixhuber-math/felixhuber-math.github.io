@@ -51,7 +51,7 @@ For a positive integer n, let S(n) be the set of values sigma(d) as d runs throu
 
 We study triangles whose three vertices lie on three different sides of a square. For a fixed triangle, the admissible square side lengths form a single interval. After normalizing the longest side, the smallest admissible square is determined explicitly by a four-region geometric classification. As an arithmetic application, the paper studies the integer-sided triangles counted by OEIS A400509 and proves a(n) = C n^3 + O(n^2), where C = 0.0776924549....
 
-[Current Manuscript](/papers/Triangles_Touching_Three_Sides_of_a_Square.pdf)
+[Current Manuscript](/papers/triangles-touching-three-sides-square.pdf)
 
 [Zenodo](https://doi.org/10.5281/zenodo.23057791)
 
