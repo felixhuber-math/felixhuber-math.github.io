@@ -14,10 +14,6 @@ Mathematics Teacher and Independent Researcher
 
 [View research papers](research.md)
 
-## OEIS Sequences
-
-[View OEIS sequences](oeis.md)
-
 ## About
 
 [About me](about.md)
