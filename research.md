@@ -153,7 +153,7 @@ This paper studies additive collisions in sets of positive divisors. It proves s
 
 This paper studies subsets of nonzero base-n digits that are preserved under reversal addition. It develops a two-sided carry automaton, proves structural results for realizable digit sets, and determines an exact Pascal-triangle tail for sufficiently dense digit sets.
 
-[Manuscript](/papers/Digit_Set_Preservation_under_Reversal_Addition_FINAL.pdf)
+[Manuscript](/papers/digit-set-preservation-reversal-addition.pdf)
 
 [Zenodo archive](https://doi.org/10.5281/zenodo.22957797)
 
