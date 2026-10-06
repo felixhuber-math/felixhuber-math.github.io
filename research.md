@@ -8,7 +8,7 @@
 
 For a positive integer n, let a(n) be the largest number of sides of a simple cyclic polygon with integer side lengths and circumradius n. The paper classifies semiprime radii, for which only the values 6, 8, and 18 occur. In contrast, for every fixed N >= 2, a(N^e) tends to infinity, with limsup a(N^e)/e >= 2. It also proves that a(n) is even whenever at most one distinct prime divisor of n is congruent to 1 modulo 4.
 
-[Manuscript (PDF)](/papers/Semiprime_Rigidity_and_Growth_along_Powers.pdf)
+[Manuscript (PDF)](/papers/semiprime-rigidity-growth-powers-cyclic-polygons.pdf)
 
 [Zenodo archive](https://doi.org/10.5281/zenodo.23106967)
 
