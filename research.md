@@ -191,7 +191,7 @@ This paper studies large Sidon subsets and repeated pair sums in sets of distinc
 
 This paper studies primitive coefficient heights arising from finite rational Möbius orbits. It proves periodicity of the normalization content, derives asymptotic counting laws for primitive orbit forms, and analyzes height collisions in the possible finite subgroup orders of PGL2(Q).
 
-[Manuscript](/papers/Huber_AUSM_manuscript.pdf)
+[Manuscript](/papers/primitive-coefficient-heights-mobius-orbits.pdf)
 
 **OEIS:** [A365892](https://oeis.org/A365892) — Increasing sequence of primitive coefficient heights arising from the involution case of the finite rational Möbius-orbit construction.
 
