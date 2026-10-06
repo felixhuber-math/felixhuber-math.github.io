@@ -203,7 +203,7 @@ This paper studies primitive coefficient heights arising from finite rational MÃ
 
 This paper proves that 144 is the largest interval length admitting an inclusion-maximal Sidon set with eight elements. It gives an explicit witness at 144 and proves that no such set exists for any n >= 145.
 
-[Manuscript](/papers/Huber_Saturated_Sidon_E8_Threshold_144_arXiv_preview%20%282%29.pdf)
+[Manuscript](/papers/saturated-sidon-eight-mark-threshold.pdf)
 
 [Zenodo archive](https://doi.org/10.5281/zenodo.22957286)
 
