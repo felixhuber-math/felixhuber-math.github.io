@@ -1,4 +1,4 @@
-[Home](index.md) | [Research](research.md) | [OEIS](oeis.md) | [About](about.md)
+[Home](index.md) | [Research](research.md) | [About](about.md)
 
 ---
 
