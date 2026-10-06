@@ -167,7 +167,7 @@ This paper studies subsets of nonzero base-n digits that are preserved under rev
 
 This paper studies large Sidon subsets and repeated pair sums in sets of distinct multinomial coefficients. It combines a product embedding with Sidon extraction, prime-partition estimates, arithmetic progressions, and pair-sum multiplicity arguments.
 
-[Manuscript](/papers/Huber_Sidon_Pair_Sum_AMUC.pdf)
+[Manuscript](/papers/sidon-pair-sum-multinomial-coefficients.pdf)
 
 [arXiv](https://arxiv.org/abs/2608.02667)
 
