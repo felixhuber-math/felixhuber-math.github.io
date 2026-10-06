@@ -12,10 +12,6 @@ Research interests include integer sequences, combinatorics, number theory, addi
 
 [Research papers](research.md)
 
-## OEIS
-
-[OEIS sequences](oeis.md)
-
 ## About
 
 [About me](about.md)
