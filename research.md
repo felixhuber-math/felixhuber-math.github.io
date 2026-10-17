@@ -20,11 +20,11 @@ For n >= 0, let G_n = {0, ..., n}^3. This paper studies the number of Euclidean 
 
 *2 October 2026*
 
-For a positive integer n, let a(n) be the largest number of sides of a simple cyclic polygon with integer side lengths and circumradius n. The paper classifies semiprime radii, for which only the values 6, 8, and 18 occur. In contrast, for every fixed N >= 2, a(N^e) tends to infinity, with limsup a(N^e)/e >= 2. It also proves that a(n) is even whenever at most one distinct prime divisor of n is congruent to 1 modulo 4.
+For a positive integer n, let a(n) be the maximum number of sides of a simple cyclic polygon with integer side lengths and circumradius n. The paper gives a complete classification of semiprime radii, for which a(pq) can only be 6, 8, or 18. For every fixed N >= 2, it proves that a(N^e) tends to infinity, with limsup a(N^e)/e >= 2. It also characterizes the existence of odd-sided polygons and proves that a(n) is even whenever at most one distinct prime divisor of n is congruent to 1 modulo 4. All results are established by computer-free proofs.
 
 [Manuscript (PDF)](/papers/semiprime-rigidity-growth-powers-cyclic-polygons.pdf)
 
-[Zenodo archive](https://doi.org/10.5281/zenodo.23106967)
+[Zenodo](https://doi.org/10.5281/zenodo.23433705)
 
 **OEIS:**
 
